@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background-color: lightgray;
+}
+
+header {
+    background-color: blue;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#logo {
+    background-color: aqua;
+    font-size: 50px;
+    position: absolute;
+    top: 0%;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    display: inline-block;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#box {
+    background-color: white;
+    width: 80%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
