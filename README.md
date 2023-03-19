@@ -2,7 +2,7 @@
 
 Tasks
 --------------------------------------------------
-> Meryem - Home Page
+> Meryem - Home Page </br>
 > Jaylen - Other Ressources Page
 > Arnima - About Us Page
 > Niaj - Help Page
