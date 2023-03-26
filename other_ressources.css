@@ -56,4 +56,15 @@ li a:hover {
     padding-bottom: 1%;
     margin-left: 10%;
     margin-right: 10%;
+    text-align:left;
+}
+
+button, p {
+    margin-left: 10px;
+}
+
+hr {
+    width: 40%;
+    margin: 0;
+    margin-bottom: 20px;
 }
